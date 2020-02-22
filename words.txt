@@ -1,0 +1,6 @@
+s	sasha
+sasha	men
+asm	proga
+math	summa
+bsuir	univer
+vika	buska
